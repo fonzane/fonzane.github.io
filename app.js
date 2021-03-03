@@ -5,9 +5,9 @@ function matrix () {
     width = (canv.width = window.innerWidth),
     height = (canv.height = window.innerHeight);
 
-    const matrix = "0123456789 /*-+ ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+    const matrix = "♥".split("");
 
-    let font = 14,
+    let font = 20,
     col = width / font,
     arr = new Array(Math.round(col));
     
