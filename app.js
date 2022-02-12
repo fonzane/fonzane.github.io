@@ -27,7 +27,7 @@ function matrix () {
         }
     }
 
-    setInterval(draw, 85);
+    setInterval(draw, 70);
 
 }
 
