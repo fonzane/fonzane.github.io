@@ -5,7 +5,7 @@ function matrix () {
     width = (canv.width = window.innerWidth),
     height = (canv.height = window.innerHeight);
 
-    const matrix = "♥".split("");
+    const matrix = "✇✖✟✠❁❍❒".split("");
 
     let font = 20,
     col = width / font,
